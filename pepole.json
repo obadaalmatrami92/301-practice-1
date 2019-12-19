@@ -1,0 +1,42 @@
+[{
+        "firstName": "obada",
+        "lastName": "almatrami",
+        "age": 27,
+        "gender": "male",
+        "eyeColor": "brown",
+        "friends": [
+            "laith"
+        ]
+    },
+    {
+        "firstName": "hamza",
+        "lastName": "almatrami",
+        "age": 22,
+        "gender": "male",
+        "eyeColor": "white brown",
+        "friends": [
+            "Ahmad"
+        ]
+    },
+    {
+        "firstName": "Ramzi",
+        "lastName": "bawyza",
+        "age": 24,
+        "gender": "male",
+        "eyeColor": "blue",
+        "friends": [
+            "muath",
+            "obada"
+        ]
+    },
+    {
+        "firstName": "Qutebah",
+        "lastName": "alhajjaj",
+        "age": 27,
+        "gender": "male",
+        "eyeColor": "Green",
+        "friends": [
+            "muath"
+        ]
+    }
+]
