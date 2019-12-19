@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(171, 171, 243);
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer {
+    background-color: darkgray;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+table {
+    width: 100%;
+    font: 17px Calibri;
+    background-color: white;
+    color: darkblue;
+}
+
+table,
+th,
+td {
+    border: solid 1px #DDD;
+    border-collapse: collapse;
+    padding: 2px 3px;
+    text-align: center;
+}
